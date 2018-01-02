@@ -11,3 +11,4 @@ end
 # password reset #007
 # fix bug #008
 # fix bug #009
+# user micropost #010
