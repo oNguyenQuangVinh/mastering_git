@@ -8,3 +8,4 @@ end
 # basic login #004
 # advanced login #005
 # account activation #006
+# password reset #007
