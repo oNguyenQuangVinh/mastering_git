@@ -10,3 +10,4 @@ end
 # account activation #006
 # password reset #007
 # fix bug #008
+# fix bug #009
