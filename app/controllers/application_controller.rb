@@ -14,3 +14,4 @@ end
 # user micropost #010
 # following user #011
 # fix bug #012
+# fix bug #013
