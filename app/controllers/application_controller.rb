@@ -9,3 +9,4 @@ end
 # advanced login #005
 # account activation #006
 # password reset #007
+# fix bug #008
