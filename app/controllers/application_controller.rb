@@ -19,3 +19,4 @@ end
 # fix bug #014 2
 # fix bug #014 3
 # fix bug #015
+# fix bug #016
