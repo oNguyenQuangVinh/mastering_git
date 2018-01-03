@@ -18,3 +18,6 @@ end
 # fix bug #014 1
 # fix bug #014 2
 # fix bug #014 3
+# fix bug #018
+# fix bug #019
+# feature #020 add notification
